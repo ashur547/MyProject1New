@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">examen4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="colour" />
+    <string name="next_colour" />
+    <string name="developers" />
+    <string name="fly_name" />
+    <string name="fly_ball" />
+    <string name="about">about</string>
+    <string name="see_video">See video</string>
+</resources>
